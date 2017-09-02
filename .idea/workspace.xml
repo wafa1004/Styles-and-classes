@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="189f41a4-14de-4638-bfd2-17ccef70d45e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resetting the style property.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Element style.html" afterPath="$PROJECT_DIR$/Element style.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -48,11 +46,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Resetting the style property.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Resetting the style property.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Resetting the style property.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+            <state relative-caret-position="150">
+              <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Full rewrite with style.cssText.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Full rewrite with style.cssText.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="149">
+              <caret line="22" column="10" lean-forward="false" selection-start-line="22" selection-start-column="10" selection-end-line="28" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -82,6 +90,7 @@
         <option value="$PROJECT_DIR$/main page.html" />
         <option value="$PROJECT_DIR$/Element style.html" />
         <option value="$PROJECT_DIR$/Resetting the style property.html" />
+        <option value="$PROJECT_DIR$/Full rewrite with style.cssText.html" />
       </list>
     </option>
   </component>
@@ -145,23 +154,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Resetting the style property.html">
+  <component name="RunManager" selected="JavaScript Debug.Full rewrite with style.cssText.html">
     <configuration name="Element style.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/styles and classes/Element style.html" />
+    <configuration name="Full rewrite with style.cssText.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/styles and classes/Full rewrite with style.cssText.html" />
     <configuration name="Resetting the style property.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/styles and classes/Resetting the style property.html" />
     <configuration name="className and classList.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/styles and classes/className and classList.html" />
     <configuration name="main page.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/styles and classes/main page.html" />
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.className and classList.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.main page.html" />
       <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Element style.html" />
       <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Resetting the style property.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Full rewrite with style.cssText.html" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Resetting the style property.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Element style.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.main page.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.className and classList.html" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Full rewrite with style.cssText.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Resetting the style property.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Element style.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.main page.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.className and classList.html" />
       </list>
     </recent_temporary>
   </component>
@@ -176,12 +188,12 @@
       <option name="presentableId" value="Default" />
       <updated>1504293043558</updated>
       <workItem from="1504293048465" duration="1440000" />
-      <workItem from="1504308113351" duration="2717000" />
+      <workItem from="1504308113351" duration="3387000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4157000" />
+    <option name="totallyTimeSpent" value="4827000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="674" y="23" width="606" height="722" extended-state="0" />
@@ -250,8 +262,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Resetting the style property.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        <state relative-caret-position="150">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Full rewrite with style.cssText.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="22" column="10" lean-forward="false" selection-start-line="22" selection-start-column="10" selection-end-line="28" selection-end-column="35" />
           <folding />
         </state>
       </provider>
