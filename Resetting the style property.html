@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Resetting the style property</title>
+</head>
+<body>
+
+    <script>
+        // if we run this code, the <body> "blinks"
+        document.body.style.display = "none"; //hide
+        //back to normal after a second
+        setTimeout(() => document.body.style.display = "", 1000);
+    </script>
+
+</body>
+</html>

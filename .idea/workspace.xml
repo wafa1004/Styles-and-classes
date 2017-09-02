@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="189f41a4-14de-4638-bfd2-17ccef70d45e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resetting the style property.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Element style.html" afterPath="$PROJECT_DIR$/Element style.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,8 +21,8 @@
       <file leaf-file-name="className and classList.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/className and classList.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+            <state relative-caret-position="285">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -36,11 +38,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Element style.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Element style.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Element style.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+            <state relative-caret-position="254">
+              <caret line="26" column="10" lean-forward="false" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Resetting the style property.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Resetting the style property.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -69,6 +81,7 @@
         <option value="$PROJECT_DIR$/className and classList.html" />
         <option value="$PROJECT_DIR$/main page.html" />
         <option value="$PROJECT_DIR$/Element style.html" />
+        <option value="$PROJECT_DIR$/Resetting the style property.html" />
       </list>
     </option>
   </component>
@@ -132,20 +145,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Element style.html">
+  <component name="RunManager" selected="JavaScript Debug.Resetting the style property.html">
     <configuration name="Element style.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/styles and classes/Element style.html" />
+    <configuration name="Resetting the style property.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/styles and classes/Resetting the style property.html" />
     <configuration name="className and classList.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/styles and classes/className and classList.html" />
     <configuration name="main page.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/styles and classes/main page.html" />
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.className and classList.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.main page.html" />
       <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Element style.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Resetting the style property.html" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Element style.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.main page.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.className and classList.html" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Resetting the style property.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Element style.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.main page.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.className and classList.html" />
       </list>
     </recent_temporary>
   </component>
@@ -160,18 +176,18 @@
       <option name="presentableId" value="Default" />
       <updated>1504293043558</updated>
       <workItem from="1504293048465" duration="1440000" />
-      <workItem from="1504308113351" duration="1596000" />
+      <workItem from="1504308113351" duration="2717000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3036000" />
+    <option name="totallyTimeSpent" value="4157000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="674" y="23" width="606" height="722" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.032478634" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13333334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -210,8 +226,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/className and classList.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -226,8 +242,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Element style.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        <state relative-caret-position="254">
+          <caret line="26" column="10" lean-forward="false" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resetting the style property.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           <folding />
         </state>
       </provider>
