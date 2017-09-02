@@ -1,0 +1,29 @@
+<!-- elem.style is an object
+     that corresponds to what's written in the
+     "style" attribute
+     Example:
+     background-color => elem.style.backgroundColor -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+    <!-- Instead of doing this.-->
+
+    <!--<style>
+        body {
+            background-color: green;
+        }
+    </style>-->
+
+<body>
+    <script>
+        //we do this.
+        document.body.style.background = prompt('background color?', 'green');
+    </script>
+
+</body>
+</html>
