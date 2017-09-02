@@ -21,6 +21,7 @@
             <!--text-align: center;-->
         <!--}-->
     <!--</style>-->
+
 <body>
     <div id="div">Button</div>
     <script>
@@ -30,7 +31,11 @@
         width: 100px;
         text-align: center;`
         ;
+
+        // same can be accomlished by setting an attribute:
+        // div.setAttribute('style', 'color: red...');
         alert(div.style.cssText);
     </script>
 </body>
 </html>
+
