@@ -1,0 +1,25 @@
+<!--There are teo concepts in css:
+    -Computed style value is the value after all CSS rules
+    and CSS inheritance is applied.
+    -Resolved style value is the one finally applied to
+    the element
+    -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>getComputedStyle</title>
+    <style> body { color: red; margin: 5px} </style>
+</head>
+<body>
+    The red Text!
+    <script>
+        // now we can read the margin and the color from it.
+        let computedStyle = getComputedStyle(document.body);
+
+        alert( computedStyle.marginTop ); // 5px
+        alert( computedStyle.color ); // rgb(255, 0, 0)
+    </script>
+</body>
+</html>
