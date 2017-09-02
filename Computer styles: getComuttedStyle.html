@@ -1,0 +1,25 @@
+<!--- The style property operates
+ only on the value of the "style attribute. Without any css
+ cascade."-->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style> body { color:red; margin:5px } </style>
+</head>
+<body>
+    The red text
+
+    <script>
+
+        //we can't read anything that comes from css using elem.style
+        //style doesn't see the margin.
+        alert(document.body.style.color); //empty
+        alert(document.body.style.marginTop); //empty
+    </script>
+
+</body>
+</html>
